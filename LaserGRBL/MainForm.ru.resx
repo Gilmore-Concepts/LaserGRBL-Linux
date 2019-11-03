@@ -166,7 +166,7 @@
     <value>Отправить на машину</value>
   </data>
   <data name="fileToolStripMenuItem.Text" xml:space="preserve">
-    <value>файл</value>
+    <value>Файл</value>
   </data>
   <data name="MNEnglish.Text" xml:space="preserve">
     <value>английский</value>
@@ -212,5 +212,26 @@
   </data>
   <data name="schemaToolStripMenuItem.Text" xml:space="preserve">
     <value>&amp;цвета</value>
+  </data>
+  <data name="MnGrblConfig.Text" xml:space="preserve">
+    <value>Конфигурация Grbl</value>
+  </data>
+  <data name="MnHotkeys.Text" xml:space="preserve">
+    <value>Быстрые клавиши</value>
+  </data>
+  <data name="MnFileAppend.Text" xml:space="preserve">
+    <value>&amp;Добавить файл</value>
+  </data>
+  <data name="MnReOpenFile.Text" xml:space="preserve">
+    <value>&amp;Открыть последний файл</value>
+  </data>
+  <data name="MnStartFromPosition.Text" xml:space="preserve">
+    <value>Отправить с &amp;Позиции</value>
+  </data>
+  <data name="slovakianToolStripMenuItem.Text" xml:space="preserve">
+    <value>словацкий</value>
+  </data>
+  <data name="donateToolStripMenuItem.Text" xml:space="preserve">
+    <value>Поддержать!</value>
   </data>
 </root>
