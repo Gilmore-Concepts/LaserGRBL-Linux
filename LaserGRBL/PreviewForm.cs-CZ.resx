@@ -133,7 +133,7 @@
     <value>Odemknout Grbl ($X)</value>
   </data>
   <data name="BtnHoming.ToolTip" xml:space="preserve">
-    <value>Nulování (reference)</value>
+    <value>Domů ($H)</value>
   </data>
   <data name="BtnZeroing.ToolTip" xml:space="preserve">
     <value>Nastavení nulového bodu (G92)</value>
