@@ -112,10 +112,10 @@
     <value>2.0</value>
   </resheader>
   <resheader name="reader">
-    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <resheader name="writer">
-    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="label20.Text" xml:space="preserve">
     <value>Lignes/mm</value>
@@ -124,7 +124,7 @@
     <value>Aide au choix de la résolution</value>
   </data>
   <data name="LblLinearFilling.Text" xml:space="preserve">
-    <value>Résolution du matériel</value>
+    <value>$100 Résolution du matériel</value>
   </data>
   <data name="BtnCancel.Text" xml:space="preserve">
     <value>Abandonner</value>
@@ -142,9 +142,10 @@
     <value>Résolution désirée</value>
   </data>
   <data name="linkLabel1.Text" xml:space="preserve">
-    <value>Si la résolution ne pouvait pas être atteinte malgré les étapes complètes, certains artefacts peuvent apparaître. Cliquez ici pour plus d'informations ...</value>
+    <value>Si la résolution ne pouvait pas être atteinte malgré les étapes complètes, certains artefacts peuvent apparaître. Cliquez ici pour plus d'informations ...
+</value>
   </data>
   <data name="label19.Text" xml:space="preserve">
-    <value>Résolution sur l'ordinateur</value>
+    <value>Résolution calculée</value>
   </data>
 </root>
