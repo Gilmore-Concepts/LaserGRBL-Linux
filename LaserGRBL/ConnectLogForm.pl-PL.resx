@@ -145,7 +145,7 @@
     <value>COM</value>
   </data>
   <data name="LblBaudRate.Text" xml:space="preserve">
-    <value>Bodów</value>
+    <value>Baud</value>
   </data>
   <data name="LblAddress.Text" xml:space="preserve">
     <value>URL</value>
