@@ -152,4 +152,7 @@
 
 Nota: o número de passes deve ser copiado manualmente para o formulário principal.</value>
   </data>
+  <data name="$this.Text" xml:space="preserve">
+    <value>Selecione sua configuração</value>
+  </data>
 </root>
